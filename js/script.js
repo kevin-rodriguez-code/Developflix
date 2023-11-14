@@ -69,7 +69,7 @@ generoAventura.forEach(pelicula => {
 
 //Ejercicio resuelto debajo ------------------------------------------>
 
-import peliculas from './peliculas.js'
+/*import peliculas from './peliculas.js'
 console.log(peliculas)
 
 const mostrarPeliculaPorGenero = (generoId, contenedorId) => {
@@ -91,4 +91,4 @@ const mostrarPeliculaPorGenero = (generoId, contenedorId) => {
 
 mostrarPeliculaPorGenero(28, "genero-28")
 mostrarPeliculaPorGenero(53, "genero-53")
-mostrarPeliculaPorGenero(12, "genero-12")
+mostrarPeliculaPorGenero(12, "genero-12")*/
